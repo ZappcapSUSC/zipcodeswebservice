@@ -5,7 +5,7 @@ Web service donde se obtiene la información de un codigo postal (zipcode) a par
 El presente proyecto fue realizado como parte del proceso de selección para el puesto de Developer Backend Java.
 
 ## Requisitos
-Para consumir el servicio de manera local se requiere tener instalado Java (JDK 11) y Spring Boot en su versión 2.2.6.
+Para consumir el servicio de manera local se requiere tener instalado Java (JDK 8) para mejorar la compatibilidad con Google Cloud y Spring Boot en su versión 2.2.6.
 
 ## Descripción
 
